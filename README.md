@@ -1,30 +1,23 @@
-# Privacy Policy for CardVault
+# Privacy Policy for PocketRelic
 
-**Last Updated:** November 2026  
-**Developer:** Vigilant Studios
+**Effective Date:** November 27, 2026  
+**Developer:** Vigilant Studios  
+**Contact:** vigilantstudios.apps@gmail.com
 
-Vigilant Studios built the **CardVault** app as a freemium application. This page informs users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+PocketRelic (formerly published during early testing as CardVault) is developed and operated by Vigilant Studios.
 
 ## 1. Information Collection and Use
+PocketRelic stores your trading card inventory ("Pocket"), favorites, wishlists, price alerts, and app preferences locally on your device. Camera access is used solely when you initiate a card scan to recognize trading cards.
 
-### Camera and Card Images
-CardVault requests access to your device's camera (`android.permission.CAMERA`) solely so you can scan physical trading cards. Captured card images are processed temporarily using Google Gemini AI services to identify the card name, set, and details. We do not sell your photos or use them for facial recognition.
+## 2. Third-Party Services
+PocketRelic uses third-party services to provide card recognition, market pricing data, and banner advertisements, including:
+- Google Play Services & Google AdMob
+- Card recognition and market pricing APIs
 
-### Local Collection Data
-Your scanned card inventory, custom binders, purchase prices, and app preferences are stored locally on your device. If you export a backup file, you are responsible for storing that file securely.
+These services may collect device identifiers or diagnostic data in accordance with their own privacy policies.
 
-### Third-Party Services (Ads, Pricing & Billing)
-CardVault uses third-party services that may collect standard device identifiers (such as your Android Advertising ID) or transaction records to operate:
-* **Google AdMob:** Displays advertisements to free-tier users. You can manage your ad privacy preferences via the in-app consent prompt or your Android device settings.
-* **Google Play Billing:** Processes in-app subscriptions and one-time lifetime unlocks securely through Google Play. We do not receive or store your credit card or payment details.
-* **JustTCG API:** Retrieves public trading card market pricing data.
-* **eBay Partner Network:** CardVault may include affiliate links to eBay listings. Tapping an eBay link opens an external web page governed by eBay's own Privacy Policy.
-
-## 2. Children's Privacy
-CardVault is not directed toward children under the age of 13, and we do not knowingly collect personally identifiable information from children under 13.
-
-## 3. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+## 3. Data Retention & Deletion
+Because your Pocket inventory and settings are stored locally on your device, you can clear your data at any time by clearing the app's storage in Android Settings or uninstalling PocketRelic.
 
 ## 4. Contact Us
-If you have any questions or suggestions about our Privacy Policy, contact Vigilant Studios via our Google Play Store developer contact email.
+If you have any questions about this Privacy Policy, contact Vigilant Studios at **vigilantstudios.apps@gmail.com**.
